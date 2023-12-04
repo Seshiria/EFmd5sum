@@ -1892,8 +1892,8 @@ e3c3da661e3659bd928b8194ed385bdf ./EF游戏OP ED(Minori Movie Collection vol.2 e
 94041c0e5ce541a137cd010da623ce73 ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/BK/IMG_0004.png
 509cf028d0a0fe28dc1bcbc5cf400e80 ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF ED.m2ts
 14f4f9c9f38cc1b91f86962344b199bd ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF NCOP1.m2ts
-ccd3f6032ce8dc5153a01e4713ecc5d0 ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF NCOP2.m2ts
-d61cb47dca36749f3b775862adc8847a ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF OP1.m2ts
+d61cb47dca36749f3b775862adc8847a ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF NCOP2.m2ts
+9cae66cd923a98261426045fb52c65b1 ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF OP1.m2ts
 11ec22d370041a03af49cbdbb11b2227 ./EF游戏OP ED(Minori Movie Collection vol.2 ef部分)/原盘m2ts/EF OP2.m2ts
 95901564e77931e518b7248610f7145a ./EF游戏日文原版/ef - the first tale(附v2汉化补丁)/ef_first_cnpatch_v2.rar
 4469f220cb4c6866f9f25ed9ecc92a68 ./EF游戏日文原版/ef - the first tale(附v2汉化补丁)/[qilin@1212121]ef - the first tale.part1.rar
@@ -2098,6 +2098,240 @@ d98da64c3b430917831a68487f2df342 ./EF脚本、解包相关/GARbro-v1.5.44.2904/x
 1f976cc520d4943ca0f3972706b27b47 ./EF脚本、解包相关/GARbro-v1.5.44.2904/zh-Hans/ArcFormats.resources.dll
 55abdcb9df3f0f0aeec43255c844f700 ./EF脚本、解包相关/GARbro-v1.5.44.2904/zh-Hans/GameRes.resources.dll
 7297d77c3c391eb3a7ec78f85bdd235c ./EF脚本、解包相关/GARbro-v1.5.44.2904/zh-Hans/GARbro.GUI.resources.dll
+b42fc59ee4ca6fa3a398ca0fdb0d74a9 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ArcExtra.dll
+cfc67aca611d4e10e16c51a1afe4057e ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ArcFormats.dll
+76e476824b64a4a25b403857d8870e77 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ArcFormats.dll.config
+29b4f7bb5688d52005a87d8b1a04d982 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ArcLegacy.dll
+d0fe18e75d37702f02ffa4f8d04e1638 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Concentus.dll
+70133feaddffc201aea8b734c325a702 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Concentus.Oggfile.dll
+fb8be50d865e01c38183a371bd1ff44c ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/bonk_ntr_1.lst
+c9356bcf2a95d836a25acbb42dcb4cc0 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/Formats.dat
+9525e9ba300dc7f5843ec7e31717eda2 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/gx4_bsz_visual.lst
+368af744048d49d6abec6920c1386020 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/hibiki_works.dat
+3e485159f483d5e748ebc4c56e09395d ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/kimiaru.lst
+61b3d6c33b59a745ac25579fbbfe9583 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/kirikiri_bracon.lst
+7811aaf0958e6651a72d98ffc71ee1f4 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/kirikiri_keikan.lst
+92c55f52291985c0d03ce0f843e71095 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/kirikiri_rhapsody.lst
+c91132aee3f82b80dce90ffd53966239 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/littlewitch.lst
+5344d4c069f3d96a7d8e4b09107291f8 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/logg_pl.lst
+96a618ef1dfc1e44584f1660b83d7558 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/NCFileMap.dat
+82c1bec36a1fd6265ac11c05444dfc14 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/NCFileMap.idx
+a5df1136c2a2e4ad3d0f7fb389818809 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/nekopack.lst
+86c5a8f1fd203aa4454d9b8f9b8f75f4 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameData/tanuki.lst
+0eb52b9a872b83ef687365519a722107 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameRes.dll
+3691f3b33baa2d5934c2405a4ab1bc8f ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GameRes.dll.config
+f3bb0fdd64b4a3141efc5122dd912f40 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GARbro.GUI.exe
+fd077e35508612e3da706acb3fb652b8 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/GARbro.GUI.exe.config
+c3991e3fe72665a29297fdbf8121e336 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ICSharpCode.SharpZipLib.dll
+eb035af2f2f3f5d0b2d2e8bf8e323cd6 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ja-JP/ArcFormats.resources.dll
+12ba9077205aedbf8e8fd88e5af4d3d9 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ja-JP/GameRes.resources.dll
+3aad06f5fff2fe09947a571cb72d2d6c ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ja-JP/GARbro.GUI.resources.dll
+ee574c91a98144674dc6ea77a6c746e6 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ko-KR/ArcFormats.resources.dll
+83474d6cef9fb516b7eaac0ff10d6087 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ko-KR/GameRes.resources.dll
+28a3c220a81daf7ad3b6c3c45b60683a ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ko-KR/GARbro.GUI.resources.dll
+79762e5bb1df556e33f97a72e7b25120 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Microsoft.Deployment.Compression.Cab.dll
+eb17c6d71a32fb17202a6c70428268d2 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Microsoft.Deployment.Compression.dll
+0d661949ebc172dfb3c3b98566bdf0fe ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Microsoft.WindowsAPICodePack.dll
+54fe9a2748c4a0f282d4ec91e3cadc16 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Microsoft.WindowsAPICodePack.Shell.dll
+3b33a99b1e3a2797b8c826bbc5efa7de ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/NAudio.dll
+b8e91d9a17f687cd69c977bb8862beea ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/Net20.dll
+5a99da4f90a4c4faa1b77ee1bf0fa684 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/NVorbis.dll
+df4305a9cdecab178cb4262b3447ac34 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ru-RU/ArcFormats.resources.dll
+630e5c4250a8b451ef7ac13575608d20 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ru-RU/GameRes.resources.dll
+120954ffbf410c3928371f0dd83744eb ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/ru-RU/GARbro.GUI.resources.dll
+87f93e3e2e10220169e0648bfa9d8565 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/supported.html
+1cb1fffea4b449fff2e56a52d7e1f4e4 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/System.Data.SQLite.dll
+84abec24a10c4d4f4b10887cb85fde6a ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/System.IO.FileSystem.dll
+e2b05593588008876b1f30c4217d71bc ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/System.Security.Cryptography.Primitives.dll
+9722713e648f42b57299e9d2cf3d5c1a ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/System.Windows.Controls.Input.Toolkit.dll
+195ed09e0b4f3b09ea4a3b67a0d3f396 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/WPFToolkit.dll
+d010665868695132d605e7987001338e ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/x64/libwebp.dll
+d98da64c3b430917831a68487f2df342 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/x64/SQLite.Interop.dll
+7e77c4906572d4953904a658a903c5ff ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/x86/libwebp.dll
+5f001a1b09175d75165039b433ce17ba ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/x86/SQLite.Interop.dll
+1f976cc520d4943ca0f3972706b27b47 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/zh-Hans/ArcFormats.resources.dll
+55abdcb9df3f0f0aeec43255c844f700 ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/zh-Hans/GameRes.resources.dll
+7297d77c3c391eb3a7ec78f85bdd235c ./EF脚本、解包相关/GARbro-v1.5【不可解first，但能解后面所有游戏】/zh-Hans/GARbro.GUI.resources.dll
+742aa19f37666199e24240bae228ee18 ./EF脚本、解包相关/latter中日脚本sc【3.5】/300_01.sc
+e2bc1215b2b6d20ffb1e88144045804f ./EF脚本、解包相关/latter中日脚本sc【3.5】/301_01.sc
+59d2ec67d95930b76df2f2340dd61ba6 ./EF脚本、解包相关/latter中日脚本sc【3.5】/302_01.sc
+d18757c2dc48547c1d93c741c5e9a410 ./EF脚本、解包相关/latter中日脚本sc【3.5】/303_01.sc
+2f68a2844d83857cfcab5a7a4cebb552 ./EF脚本、解包相关/latter中日脚本sc【3.5】/304_01.sc
+c7cd689a08484bd62e042cb0e1f211f5 ./EF脚本、解包相关/latter中日脚本sc【3.5】/305_01.sc
+acf59b6ed2703ccac227e61e3e1a11a1 ./EF脚本、解包相关/latter中日脚本sc【3.5】/306_01.sc
+93a617e1e300a32967f40717be35c4af ./EF脚本、解包相关/latter中日脚本sc【3.5】/307_01.sc
+a33f9cc9cfe9186d513732505b28c1e0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/308_01.sc
+1d757c3238b2ae723a8b5bf52f40b258 ./EF脚本、解包相关/latter中日脚本sc【3.5】/309_01.sc
+f4f6bd4ac1a864f40744f912a37d4b90 ./EF脚本、解包相关/latter中日脚本sc【3.5】/310_01.sc
+9e562d54859eaea89b6eb0357d8a1f51 ./EF脚本、解包相关/latter中日脚本sc【3.5】/311_01.sc
+53041cda47fd3500fbcf22cf726f7844 ./EF脚本、解包相关/latter中日脚本sc【3.5】/312_01.sc
+95dbe62ddd4c5c6c48cf5759f97be02a ./EF脚本、解包相关/latter中日脚本sc【3.5】/313_01.sc
+eb30e49930844c88300bea66490a0e04 ./EF脚本、解包相关/latter中日脚本sc【3.5】/314_01.sc
+c8de31e5d90b7f64b72b550c83ff3b10 ./EF脚本、解包相关/latter中日脚本sc【3.5】/314_02.sc
+cdd9d08c8d31de082e8290b563f81329 ./EF脚本、解包相关/latter中日脚本sc【3.5】/314_03.sc
+382b5db288c6a5a4715a21fa0ba98ba8 ./EF脚本、解包相关/latter中日脚本sc【3.5】/314_04.sc
+33695f174e3aa02538e81a25fd87605b ./EF脚本、解包相关/latter中日脚本sc【3.5】/315_01.sc
+f17f51a34ddf0cf6eb4961af64ea84c6 ./EF脚本、解包相关/latter中日脚本sc【3.5】/316_01.sc
+0f5fd4748fa47d4750d28a49f7bf0490 ./EF脚本、解包相关/latter中日脚本sc【3.5】/317_01.sc
+efd2cf605ffa731bc896d1cb8b073988 ./EF脚本、解包相关/latter中日脚本sc【3.5】/318_01.sc
+2cf8c895a503b112f837d409910b53b9 ./EF脚本、解包相关/latter中日脚本sc【3.5】/319_01.sc
+10dede9a171615fe84ceae2f5155a456 ./EF脚本、解包相关/latter中日脚本sc【3.5】/319_02.sc
+7efdc2ed7e99eb52fec8ed08fe081b25 ./EF脚本、解包相关/latter中日脚本sc【3.5】/319_02_mem.sc
+6f3f2b6ae8bb2a40b8642f193ccf80ea ./EF脚本、解包相关/latter中日脚本sc【3.5】/320_01.sc
+bc065b6cf654ba90ce3175f90ed51ec6 ./EF脚本、解包相关/latter中日脚本sc【3.5】/320_02.sc
+db0e3401bd69f2eaca6ea38ea5843725 ./EF脚本、解包相关/latter中日脚本sc【3.5】/320_03.sc
+699bcb2cc5f00b3fdd1f7009cfc54658 ./EF脚本、解包相关/latter中日脚本sc【3.5】/321_01.sc
+48136f864d1748da1a42e1524adf9f88 ./EF脚本、解包相关/latter中日脚本sc【3.5】/400_01.sc
+c175292b5fc4e1731a6a9503ff81e073 ./EF脚本、解包相关/latter中日脚本sc【3.5】/400_02.sc
+0bf10b1fc6828ec71718e19f671501c0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/401_01.sc
+497e64af1972c8592c68ea553801942a ./EF脚本、解包相关/latter中日脚本sc【3.5】/402_01.sc
+79292afe99625be425f22a7d060fe9c3 ./EF脚本、解包相关/latter中日脚本sc【3.5】/403_01.sc
+264b7f062f2be9059dbdb89281be33b0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/404_01.sc
+777f6438940eac6ba367f94a56c73f75 ./EF脚本、解包相关/latter中日脚本sc【3.5】/405_01.sc
+58cdc507b88a8250d237af503bb03497 ./EF脚本、解包相关/latter中日脚本sc【3.5】/406_01.sc
+8d8dfaf49d4bcdf26b637061e178f107 ./EF脚本、解包相关/latter中日脚本sc【3.5】/407_01.sc
+97ebf84d419a89e15b8f7b45aca3bd45 ./EF脚本、解包相关/latter中日脚本sc【3.5】/408_01.sc
+f69673d921e7dbc3c41670f2c2d0a6c1 ./EF脚本、解包相关/latter中日脚本sc【3.5】/409_01.sc
+f5b08137be019f7c5e830085abc6c35e ./EF脚本、解包相关/latter中日脚本sc【3.5】/410_01.sc
+e1c7d7f5553f4c3d1d5e53148549ff7b ./EF脚本、解包相关/latter中日脚本sc【3.5】/411_01.sc
+e79d293214c24dffa0d15b5029f78850 ./EF脚本、解包相关/latter中日脚本sc【3.5】/411_02.sc
+9eb38d7ab40d1537faae2ac2226b1922 ./EF脚本、解包相关/latter中日脚本sc【3.5】/411_02_mem.sc
+820aef52c70a662e52599c38d5f8cf7d ./EF脚本、解包相关/latter中日脚本sc【3.5】/411_03.sc
+b1ccbe69ac07aa0028b02b58dc84055f ./EF脚本、解包相关/latter中日脚本sc【3.5】/412_01.sc
+47d46dc031a1e902e57120c877169709 ./EF脚本、解包相关/latter中日脚本sc【3.5】/413_01.sc
+b562ebccbcbb78a1d5d7e86f38953d0c ./EF脚本、解包相关/latter中日脚本sc【3.5】/414_01.sc
+5fecf8c97287fbeb55c848cb6155ee5c ./EF脚本、解包相关/latter中日脚本sc【3.5】/415_01.sc
+e9dcd0b14a873355607407e361ab858f ./EF脚本、解包相关/latter中日脚本sc【3.5】/415_02.sc
+7489e006078a7bac153979e3473ea31f ./EF脚本、解包相关/latter中日脚本sc【3.5】/416_01.sc
+137f7672a8b1f49c53ed4f4bb46011fd ./EF脚本、解包相关/latter中日脚本sc【3.5】/416_02.sc
+13950b1ba5acad5ac808d42720915f45 ./EF脚本、解包相关/latter中日脚本sc【3.5】/416_02_mem.sc
+8a5c9d8891e57a56e5ac7bc5805bdf91 ./EF脚本、解包相关/latter中日脚本sc【3.5】/416_03.sc
+070536d01f924c833ca729d88a07c510 ./EF脚本、解包相关/latter中日脚本sc【3.5】/417_01.sc
+ea2a1474e458d633ba4501bbf6434675 ./EF脚本、解包相关/latter中日脚本sc【3.5】/418_01.sc
+bac86290ca58c0a2905d2b8b657c2de1 ./EF脚本、解包相关/latter中日脚本sc【3.5】/500_01.sc
+7ac69e0c1acc545fe9a3742530e47960 ./EF脚本、解包相关/latter中日脚本sc【3.5】/501_01.sc
+73f03fa51f532390eeaf8c52735c18a0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/502_01.sc
+8b2738e4fdeeafac92e175db3b07cd78 ./EF脚本、解包相关/latter中日脚本sc【3.5】/503_01.sc
+ca1d3a75f983b2d030140f393ebcb28d ./EF脚本、解包相关/latter中日脚本sc【3.5】/504_01.sc
+652a65193357e1fa25ad037f6ae1f732 ./EF脚本、解包相关/latter中日脚本sc【3.5】/505_01.sc
+79504832364daf0681ec66cae0eed822 ./EF脚本、解包相关/latter中日脚本sc【3.5】/506_01.sc
+2ed6ba91eb11af0d04046f0ca741efe7 ./EF脚本、解包相关/latter中日脚本sc【3.5】/507_01.sc
+ddf90a5970442a618a9778f8818d9fe7 ./EF脚本、解包相关/latter中日脚本sc【3.5】/508_01.sc
+6e3120e31d1dcd26a7f1a36f7903a6cd ./EF脚本、解包相关/latter中日脚本sc【3.5】/509_01.sc
+1945ce4e3cc8eff0e57ef15fd7b347d3 ./EF脚本、解包相关/latter中日脚本sc【3.5】/509_02_mem.sc
+7960f09fcd301987977b783311f1f9d1 ./EF脚本、解包相关/latter中日脚本sc【3.5】/509_03.sc
+004909d81e76f62f152d0cb4e1dcd36d ./EF脚本、解包相关/latter中日脚本sc【3.5】/510_01.sc
+609317649fbab21b9d2c4bac62aeff44 ./EF脚本、解包相关/latter中日脚本sc【3.5】/511_01.sc
+f4be14d4c6172d55448c045a95018bfb ./EF脚本、解包相关/latter中日脚本sc【3.5】/600_01.sc
+cd28dd0d4a1a0e5850c4aa4e1d61e72a ./EF脚本、解包相关/latter中日脚本sc【3.5】/601_01.sc
+addb4cfac013db2bc022c8e4dc2cf4d3 ./EF脚本、解包相关/latter中日脚本sc【3.5】/602_01.sc
+5e320da532f3c6d500adf4aa35032997 ./EF脚本、解包相关/latter中日脚本sc【3.5】/602_02.sc
+b31e0e1e338ffe85e3ec7044790c3ebd ./EF脚本、解包相关/latter中日脚本sc【3.5】/602_02_mem.sc
+1e4c527d2ce2ac52ad614f5bad09d3b0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/602_03.sc
+da11b88198d9acc1f50baa7c6c2ed5e0 ./EF脚本、解包相关/latter中日脚本sc【3.5】/603_01.sc
+e70fbe083a7f19e6c4b7793c06fc1232 ./EF脚本、解包相关/latter中日脚本sc【3.5】/604_01.sc
+537f6952b1fcfb3b3eae59e3fba049e7 ./EF脚本、解包相关/latter中日脚本sc【3.5】/605_01.sc
+5d407b3d35052732d6e6356a54c397f2 ./EF脚本、解包相关/latter中日脚本sc【3.5】/606_01.sc
+fbaf9b053d222e8a2154585f99a8699d ./EF脚本、解包相关/latter中日脚本sc【3.5】/607_01.sc
+14540d1b704a0e1ef8777dd526ac6aa6 ./EF脚本、解包相关/latter中日脚本sc【3.5】/608_01.sc
+65a2af19e003add6fd536339775c3e4a ./EF脚本、解包相关/latter中日脚本sc【3.5】/609_01.sc
+f04bc33845eb592cf5761d7881c053ef ./EF脚本、解包相关/latter中日脚本sc【3.5】/702_01.sc
+0b4f8e3c6dd54ba54b665d7ca6b5a4b5 ./EF脚本、解包相关/latter中日脚本sc【3.5】/800_01.sc
+cd014c2a1bca91e765fe9323baadbb53 ./EF脚本、解包相关/latter中日脚本sc【3.5】/pre001.sc
+071c077da81120e620ba254509712107 ./EF脚本、解包相关/latter日版脚本sc/300_01.sc
+30b42ef2f0cacafe4e8b77dce47979cb ./EF脚本、解包相关/latter日版脚本sc/301_01.sc
+ef9e87a5b8126bc42ba7ff3673da7e32 ./EF脚本、解包相关/latter日版脚本sc/302_01.sc
+ab012c01ebe733fb9e83c4411d03ddee ./EF脚本、解包相关/latter日版脚本sc/303_01.sc
+74be00d35d661538f7555bc211b9fae0 ./EF脚本、解包相关/latter日版脚本sc/304_01.sc
+7dcd3b20be365331099baf29c4d45fdb ./EF脚本、解包相关/latter日版脚本sc/305_01.sc
+b664a72baa7fd73cff6919822f2062f7 ./EF脚本、解包相关/latter日版脚本sc/306_01.sc
+0533c5176cf1e006c8cfdcd11903d69c ./EF脚本、解包相关/latter日版脚本sc/307_01.sc
+887ffb83c54dff89ebc833e4febc5c55 ./EF脚本、解包相关/latter日版脚本sc/308_01.sc
+24aa2a7769b4bc090c67fdcf5967aa72 ./EF脚本、解包相关/latter日版脚本sc/309_01.sc
+54ff438133ee452e5feb14fa60c73487 ./EF脚本、解包相关/latter日版脚本sc/310_01.sc
+bd299bf3409d64e55823117d3e5b9dc3 ./EF脚本、解包相关/latter日版脚本sc/311_01.sc
+59892de9079b8dc55d4732f5eaeb8bbb ./EF脚本、解包相关/latter日版脚本sc/312_01.sc
+effdaf78087695cc3300acbffa1f4693 ./EF脚本、解包相关/latter日版脚本sc/313_01.sc
+7385cfc4b9297e86b34f2c162162ba29 ./EF脚本、解包相关/latter日版脚本sc/314_01.sc
+17abc37340e639a57d2e560313695145 ./EF脚本、解包相关/latter日版脚本sc/314_02.sc
+b788dc004e20566eaced554b1178120d ./EF脚本、解包相关/latter日版脚本sc/314_03.sc
+f5bfc5e512aac9dac8c4c97017aec985 ./EF脚本、解包相关/latter日版脚本sc/314_04.sc
+7870babf8e53efcb648cdc0c519412b3 ./EF脚本、解包相关/latter日版脚本sc/315_01.sc
+081841866b1639f1c32ca2a1615fe5d1 ./EF脚本、解包相关/latter日版脚本sc/316_01.sc
+6d78536f71f78dbdd67746da51f05e83 ./EF脚本、解包相关/latter日版脚本sc/317_01.sc
+cf8edf75556bbcef90037b8320f70435 ./EF脚本、解包相关/latter日版脚本sc/318_01.sc
+593b9e082263c53a11b5995c6129bca8 ./EF脚本、解包相关/latter日版脚本sc/319_01.sc
+10dede9a171615fe84ceae2f5155a456 ./EF脚本、解包相关/latter日版脚本sc/319_02.sc
+4e314ecb5600d53a1e5eaca0c885d0aa ./EF脚本、解包相关/latter日版脚本sc/319_02_ero.sc
+7efdc2ed7e99eb52fec8ed08fe081b25 ./EF脚本、解包相关/latter日版脚本sc/319_02_mem.sc
+8ff7974ec0b42d74724af243d00c3575 ./EF脚本、解包相关/latter日版脚本sc/320_01.sc
+4b169fe48feabe10ea416dca7cbda2b6 ./EF脚本、解包相关/latter日版脚本sc/320_02.sc
+d4c739a7244d9b912afb168ba7170758 ./EF脚本、解包相关/latter日版脚本sc/320_03.sc
+66c61df08f09e0e889c24b5c8782dea7 ./EF脚本、解包相关/latter日版脚本sc/321_01.sc
+5c57818724ecdeca28e4c361e290af64 ./EF脚本、解包相关/latter日版脚本sc/400_01.sc
+1e35ebe3a0df8137d864c9a2ef8e351d ./EF脚本、解包相关/latter日版脚本sc/400_02.sc
+1f82a2719a2561c3981dc0e5e93496a4 ./EF脚本、解包相关/latter日版脚本sc/401_01.sc
+d4e59aed9567a688c6ab011cff4e4b2b ./EF脚本、解包相关/latter日版脚本sc/402_01.sc
+80dea69761abafd8ae07d8aff8061d6d ./EF脚本、解包相关/latter日版脚本sc/403_01.sc
+1d7565bbc4baa75499f50f24db72615f ./EF脚本、解包相关/latter日版脚本sc/404_01.sc
+f1f9013ad9a1d02afec52cd48e6d48c3 ./EF脚本、解包相关/latter日版脚本sc/405_01.sc
+a53a7c77904e3dd25875a4b8989667db ./EF脚本、解包相关/latter日版脚本sc/406_01.sc
+282517e091641826cd2238bd8a8a964d ./EF脚本、解包相关/latter日版脚本sc/407_01.sc
+5e60822cf1a6961f5dc6f3e045fba52a ./EF脚本、解包相关/latter日版脚本sc/408_01.sc
+631f6d587afe0cbc77fa65dbff905b01 ./EF脚本、解包相关/latter日版脚本sc/409_01.sc
+6c0a3321ab76cdb62e295e6f6e93f31f ./EF脚本、解包相关/latter日版脚本sc/410_01.sc
+98fff7e08d09e1eef9a1a3551a4fd4c8 ./EF脚本、解包相关/latter日版脚本sc/411_01.sc
+e79d293214c24dffa0d15b5029f78850 ./EF脚本、解包相关/latter日版脚本sc/411_02.sc
+5e8e32c58e58af69170063390de2e23d ./EF脚本、解包相关/latter日版脚本sc/411_02_ero.sc
+9eb38d7ab40d1537faae2ac2226b1922 ./EF脚本、解包相关/latter日版脚本sc/411_02_mem.sc
+43941887a73463d6a8ada3d8ed1ea15e ./EF脚本、解包相关/latter日版脚本sc/411_03.sc
+167779e018b0867290be38d048361a10 ./EF脚本、解包相关/latter日版脚本sc/412_01.sc
+85df055073d2973d53d26ca1005deabb ./EF脚本、解包相关/latter日版脚本sc/413_01.sc
+97697a50355db0558ff6a5efbcf4d542 ./EF脚本、解包相关/latter日版脚本sc/414_01.sc
+ba52a9c1550ec9efd5906b9262d1f2e1 ./EF脚本、解包相关/latter日版脚本sc/415_01.sc
+14f069c7007c19f9bb06cb41fb7fac4e ./EF脚本、解包相关/latter日版脚本sc/415_02.sc
+78c0c4ef69c431eedfb23ae89fc04ba0 ./EF脚本、解包相关/latter日版脚本sc/416_01.sc
+137f7672a8b1f49c53ed4f4bb46011fd ./EF脚本、解包相关/latter日版脚本sc/416_02.sc
+0b8af5e41cd05ebf66d0a7dccf0118b4 ./EF脚本、解包相关/latter日版脚本sc/416_02_ero.sc
+13950b1ba5acad5ac808d42720915f45 ./EF脚本、解包相关/latter日版脚本sc/416_02_mem.sc
+6a95632e806bb6082f55b22728eb4e1d ./EF脚本、解包相关/latter日版脚本sc/416_03.sc
+58e052109ecfcf48cf40e60aa0ff4ba7 ./EF脚本、解包相关/latter日版脚本sc/417_01.sc
+24612583056baa9ba46ef3faef7b276f ./EF脚本、解包相关/latter日版脚本sc/418_01.sc
+fd21abe24247f1567ebb4270056cd1a7 ./EF脚本、解包相关/latter日版脚本sc/500_01.sc
+5b4766350c2a5750dc504ecc1d671377 ./EF脚本、解包相关/latter日版脚本sc/501_01.sc
+633593b4b2c3d3927f7e321993584117 ./EF脚本、解包相关/latter日版脚本sc/502_01.sc
+865cd73755cf4e4d6df9d3741b2a5b1e ./EF脚本、解包相关/latter日版脚本sc/503_01.sc
+704787fdac615b61673df0ebe974d631 ./EF脚本、解包相关/latter日版脚本sc/504_01.sc
+505bbbfc5ac98cafb7ca20c8d0b9cd06 ./EF脚本、解包相关/latter日版脚本sc/505_01.sc
+6831583a2754012eed62610cab2b842b ./EF脚本、解包相关/latter日版脚本sc/506_01.sc
+94531726853073be3bd358a5da84458b ./EF脚本、解包相关/latter日版脚本sc/507_01.sc
+afcc57823f05f0f6a5c8739689e49489 ./EF脚本、解包相关/latter日版脚本sc/508_01.sc
+2dd5eb8bb0e8b76eb5f58e67c0fd688a ./EF脚本、解包相关/latter日版脚本sc/509_01.sc
+c0f3950d932c58580868bff58c265246 ./EF脚本、解包相关/latter日版脚本sc/509_02.sc
+81a495b54e5b77623f9a6380bbb42a59 ./EF脚本、解包相关/latter日版脚本sc/509_02_ero.sc
+1945ce4e3cc8eff0e57ef15fd7b347d3 ./EF脚本、解包相关/latter日版脚本sc/509_02_mem.sc
+18cc6fedd2a1a188dbe2e909e0fcd1c4 ./EF脚本、解包相关/latter日版脚本sc/509_03.sc
+d8c778c81065f510d702619838ec1578 ./EF脚本、解包相关/latter日版脚本sc/510_01.sc
+d78ca90f49a5fee0632d5211a665d198 ./EF脚本、解包相关/latter日版脚本sc/511_01.sc
+b1b2b7943c0ef1088e471109f323fb2a ./EF脚本、解包相关/latter日版脚本sc/600_01.sc
+82eb84e30e927b987a87fed94223c133 ./EF脚本、解包相关/latter日版脚本sc/601_01.sc
+e62bf83589565b33855114ed317d7641 ./EF脚本、解包相关/latter日版脚本sc/602_01.sc
+5e320da532f3c6d500adf4aa35032997 ./EF脚本、解包相关/latter日版脚本sc/602_02.sc
+14467483907479bcc7c8f28b3d2c50dd ./EF脚本、解包相关/latter日版脚本sc/602_02_ero.sc
+b31e0e1e338ffe85e3ec7044790c3ebd ./EF脚本、解包相关/latter日版脚本sc/602_02_mem.sc
+63481c6510854709849ad114e0b54afd ./EF脚本、解包相关/latter日版脚本sc/602_03.sc
+1bfa65c41fc0575bd33683af4573835a ./EF脚本、解包相关/latter日版脚本sc/603_01.sc
+e919fafda2f630a65b29fecf498f95bb ./EF脚本、解包相关/latter日版脚本sc/604_01.sc
+0cd00e896f1e99593e5a254667f21945 ./EF脚本、解包相关/latter日版脚本sc/605_01.sc
+4b39c3e82d564f02321da01cd77284af ./EF脚本、解包相关/latter日版脚本sc/606_01.sc
+9e472274b5f150f19324e44adb3d3b36 ./EF脚本、解包相关/latter日版脚本sc/607_01.sc
+6a056abff905435ffa2c952a86b49b76 ./EF脚本、解包相关/latter日版脚本sc/608_01.sc
+d1f333162cdf976f555b0f883cba4cd6 ./EF脚本、解包相关/latter日版脚本sc/609_01.sc
+487c6c9163f058c4064145e3c9f0ff22 ./EF脚本、解包相关/latter日版脚本sc/702_01.sc
+eb7d375b66f7d90607ce0aba5da90d8c ./EF脚本、解包相关/latter日版脚本sc/800_01.sc
+5407be954b4e578901aa77eb1d77efc5 ./EF脚本、解包相关/latter日版脚本sc/movie.sc
+2521ca009140ee35ea52b269ff49a345 ./EF脚本、解包相关/latter日版脚本sc/pre001.sc
+6bcb7a64592ec65010ac36190d1aacd0 ./EF脚本、解包相关/latter日版脚本sc/test.sc
 68ee5ca7be8bfa7b7e2927eacc1071f7 ./EF脚本、解包相关/日曜日专用解包器/ef_unpack.exe
 1965d605ca3f67304202067f6ca2079d ./EF脚本、解包相关/日曜日专用解包器/GalStars.dll
 8418c9c979621c13ed2c1119f5fe1315 ./EF脚本、解包相关/日曜日专用解包器/key/bg.datKey
@@ -2114,6 +2348,15 @@ fabcf6630f5afc454f456720072c45e1 ./EF脚本、解包相关/日曜日专用解包
 b8d524c1dc79e428011d616644e85977 ./EF脚本、解包相关/日曜日专用解包器/key/voice.datKey
 1cc0f489b452c25541bfafb1226bcdc6 ./EF脚本、解包相关/日曜日专用解包器/key/voice.topKey
 0d84e815a39ae82c61d8a3063e292780 ./EF脚本、解包相关/日曜日专用解包器/minoriPackTools.dll
+897edc8bf6ccebb153add58020262c43 ./EF脚本、解包相关/日曜日汉化脚本sc/AFTER/FD_01.sc
+eb372036de08e7f669e9e62303abb346 ./EF脚本、解包相关/日曜日汉化脚本sc/AFTER/FD_02.sc
+23a4afd436385b67898524174a9adc1c ./EF脚本、解包相关/日曜日汉化脚本sc/AFTER/FD_03.sc
+d75725d6e618084ff5faf91a2f3e4b6d ./EF脚本、解包相关/日曜日汉化脚本sc/AFTER/FD_04.sc
+cbfa70da1c0406ab60204a4832273e02 ./EF脚本、解包相关/日曜日汉化脚本sc/ANOTHER/FD_05.sc
+79927e963807fafeecafe2fdf6da907e ./EF脚本、解包相关/日曜日汉化脚本sc/ANOTHER/FD_05x.sc
+494a9fa5feded19b0e0c3686961e148b ./EF脚本、解包相关/日曜日汉化脚本sc/ANOTHER/FD_06.sc
+24971f8c855fd06dfaeb45977d489f03 ./EF脚本、解包相关/日曜日汉化脚本sc/ANOTHER/FD_07.sc
+2da277fe9432f53b724697e00066807e ./EF脚本、解包相关/日曜日汉化脚本sc/FD_08.sc
 897edc8bf6ccebb153add58020262c43 ./EF脚本、解包相关/日曜日脚本文件/AFTER/FD_01.sc
 eb372036de08e7f669e9e62303abb346 ./EF脚本、解包相关/日曜日脚本文件/AFTER/FD_02.sc
 23a4afd436385b67898524174a9adc1c ./EF脚本、解包相关/日曜日脚本文件/AFTER/FD_03.sc
@@ -2487,6 +2730,7 @@ cf5d5bc00dbcded11b1054c834787381 ./EF音乐和广播剧[全无损]/(flac) ef 音
 506a210988b7f96ec703e600f9313816 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/02.jpg
 d170d76f6bdd09363a53720dd25224ba ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/03.jpg
 ada3ce04a9782db7325da0ba259dc6c2 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/04.jpg
+345766e1e1bcdddcecbc1f8a5578a07d ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/Cover【修图LemonCraft@tsdm】.jpg
 d6ba55f5ab9d84df7f244809936d80fa ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/SW-059ST.cue
 ce3fbf17d22a8f71c3945b562036bdd1 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/SW-059ST.flac
 ba583996aa1149a80b01f0e643d38857 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/OST——6/[EAC][101026][OST](サントラ)(C79)リア獣ハンター優子 everlasting force(4photos)/SW-059ST.log
@@ -2692,14 +2936,14 @@ ff8dd4aeaf99d743a4d6ce7aaa96fd3e ./EF音乐和广播剧[全无损]/(flac) ef 音
 463dc56f41d093a8883017937276513b ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/[080208][Webラジオ][minori][Second fan mix]omoshiro(34wma)/32minori0525.wma
 8f5777c157841ed03c3ee2fb5aebf139 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/[080208][Webラジオ][minori][Second fan mix]omoshiro(34wma)/33minori0601.wma
 c77f8c4085b06198dd3b32da20ac8e2e ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/[080208][Webラジオ][minori][Second fan mix]omoshiro(34wma)/omoshiro_comike.wma
-6b59282f963028fbb84ffaec75a970ee ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/A HAPPY NEW YEAR!! 2∞8.cue
-fd0f987b38f8b3e443a0327772e5232f ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/A HAPPY NEW YEAR!! 2∞8.flac
-16679275c0a69ef92da2f6571e9775e1 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/A HAPPY NEW YEAR!! 2∞8.jpg
-ccda09f69a8ef835589507cbceb5c709 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/BK/2008 (1).jpg
-46e2ffb47eac09b7f5d6c7cd2f460b5d ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/BK/2008 (2).jpg
-333c7c470fad9f19aa04395ca2170aa4 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/BK/2008 (3).jpg
-d40241d95fc170cbe635a2875c16ed69 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/BK/2008 (4).jpg
-9dc3c2e4de7e00953ab1bd15a8c1f101 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_bk)/BK/2008 (5).jpg
+6b59282f963028fbb84ffaec75a970ee ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/A HAPPY NEW YEAR!! 2∞8.cue
+fd0f987b38f8b3e443a0327772e5232f ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/A HAPPY NEW YEAR!! 2∞8.flac
+16679275c0a69ef92da2f6571e9775e1 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/A HAPPY NEW YEAR!! 2∞8.jpg
+ccda09f69a8ef835589507cbceb5c709 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/BK/2008 (1).jpg
+46e2ffb47eac09b7f5d6c7cd2f460b5d ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/BK/2008 (2).jpg
+333c7c470fad9f19aa04395ca2170aa4 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/BK/2008 (3).jpg
+d40241d95fc170cbe635a2875c16ed69 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/BK/2008 (4).jpg
+9dc3c2e4de7e00953ab1bd15a8c1f101 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][071231][Drama CD][minori]ドラマCD「A HAPPY NEW YEAR!! 2∞8」(无log_5bk)/BK/2008 (5).jpg
 812bcc834f664c4164de1d57fc0ccd1b ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][10xxxx][Drama CD][minori]ドラマCD「お年賀ニ〇一〇」(3bk)/log.accurip
 d3ffc7101ec1d4fb8fc4be64a7506000 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][10xxxx][Drama CD][minori]ドラマCD「お年賀ニ〇一〇」(3bk)/Scan/Disc.jpg
 4c1b0deff320b510f25272c54a2f6818 ./EF音乐和广播剧[全无损]/(flac) ef 音乐+广播剧合集 天雪修正改良版 (44)/お年賀——2/[EAC][10xxxx][Drama CD][minori]ドラマCD「お年賀ニ〇一〇」(3bk)/Scan/p1.jpg
@@ -3050,4 +3294,5 @@ b3be6cfa7c2d4713bb148a284d59b280 ./EF音乐和广播剧[全无损]/drama MP3/[MP
 512053c60c535374790790778bf8c254 ./EF音乐和广播剧[全无损]/drama MP3/[MP3] Drama CD/8.[070727]「真夏の鍋パーティー」Disc2(Av36614878,P8).mp3
 2be29f168b2157374ef587a6128daa8d ./EF音乐和广播剧[全无损]/drama MP3/[MP3] Drama CD/9.[071121]「新堂凪への手紙～」(Av36614878,P9).mp3
 0c938da8b6d5610cf783e6aeb8a3c033 ./[20200415] Exact Audio Copy 使用指南 - 欧美、华语、韩语、古典资源区 - 天使动漫论坛 - 梦开始的地方 - Powered by Discuz!.pdf
+7f02ada25aec114c38f6b0088fc5af66 ./[220408]ef-悠久之翼 资源档案楼和补全计划.docx
 71e2db23beb8a514c3391dea4f9f61a4 ./种子硬链接TorrentHardLinkHelper.rar
